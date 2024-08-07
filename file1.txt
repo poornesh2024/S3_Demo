@@ -6,6 +6,7 @@ fywfy
 dfj sdf
 
 Last line chenge in dev2:   
+<<<<<<< HEAD
 hhj
 dfhkjf
 wefjkmwf
@@ -27,3 +28,5 @@ JKUDklmrntn
 er er
 
 erm
+=======
+>>>>>>> 0fcb4ea... file1 changes
